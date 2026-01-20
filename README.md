@@ -1,14 +1,18 @@
 # Repositorio de Prácticas 
 
-Este repositorio contiene las prácticas realizadas en el módulo **Programación** del ciclo **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Este repositorio contiene todas las prácticas realizadas en el módulo **Programación** del ciclo **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-Cada práctica incluye código, documentación y ejercicios relacionados con el uso de **Git**, **GitHub**, **Java** y **Eclipse**.
+Las prácticas incluirán código, documentación y ejercicios relacionados con el uso de **Git**, **GitHub**, **Java** y **Eclipse**.
 
 ## Contenidos
 
-- **Práctica 1:** Uso básico de Git y GitHub con Java  
-- **Práctica 2:** Trabajo colaborativo y resolución de conflictos en Git  
-- **Práctica 3:** Automatización del entorno de desarrollo en Eclipse  
+- **01 - Introducción a la programación:** No hay ejercicios sobre este tema
+- **02 - Tipos de datos. Manejo de la información:** 
+- **03 - Estructuras de control:**
+- **04 - Colecciones de objetos I:**
+- **05 - Introducción a la P.O.O.:**
+- **06 - Herencias e Interfaces:**
+- **07-08 - Colecciones de objetos (II). Comparación de objetos:**
 
 ---
 
